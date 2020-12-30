@@ -1,0 +1,22 @@
+Bonjour,
+
+Ce dossier ZIP contient l'ensemble des fichiers nécessaires à la réalisation du "compte-rendu" (mémoire) de Ma411 sur les champs pétrolifères
+
+Le fichier doit comporter :
+ - 1 document Word : compte-rendu
+ - 1 fichier PDF issu de la conversion du Word pour la lecture
+ - 2 fichier Python :
+	- Un fichier pour les codes sans gravité
+	- Un autre fichier pour les codes avec gravité
+ - Le présent fichier texte
+
+L'ensemble de ces fichiers est également disponible sur le site GitHub à l'adresse suivante :
+
+Ce dossier ZIP permet ainsi de sécuriser l'envoie des fichiers Python en cas d'impossibilité d'accès à GitHub
+
+Pour toute question, merci d'utiliser les adresses mails IPSA :
+georges.benisty@ipsa.fr
+luke.vanhaelen@ipsa.fr
+
+Bonne lecture.
+ 
