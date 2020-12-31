@@ -11,12 +11,16 @@ Le fichier doit comporter :
  - Le présent fichier texte
 
 L'ensemble de ces fichiers est également disponible sur le site GitHub à l'adresse suivante :
+https://github.com/GeorgesBenisty/Petroleum_Reservoir_IPSA_2020
 
-Ce dossier ZIP permet ainsi de sécuriser l'envoie des fichiers Python en cas d'impossibilité d'accès à GitHub
+Ce dossier ZIP permet ainsi de sécuriser l'envoie des fichiers Python en cas d'impossibilité d'accès au répertoire GitHub
 
 Pour toute question, merci d'utiliser les adresses mails IPSA :
 georges.benisty@ipsa.fr
 luke.vanhaelen@ipsa.fr
 
 Bonne lecture.
+
+Benisty Georges
+Vanhaelen Luke
  
